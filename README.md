@@ -5,5 +5,7 @@ Auto bed leveling with inductive probe enabled
 Gcode: G29
 AUTO_BED_LEVELING_BILINEAR with a 5x5 grid for the large and uneven aluminium plate.
 
-Open Marlin.ino in Arduino IDE and use it to upload to ZRIB V3
+Download/clone entire repository
+Open Marlin.ino in Arduino IDE and use it to build (verify) and upload to ZRIB V3
+
 Adjust config.h and configuration.h as needed
